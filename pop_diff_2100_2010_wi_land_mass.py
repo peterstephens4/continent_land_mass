@@ -1,3 +1,6 @@
+#  Peter Stephens
+# 5/8/2016
+
 from collections import defaultdict
 import operator 
 population_dict_2010 = defaultdict(int)
